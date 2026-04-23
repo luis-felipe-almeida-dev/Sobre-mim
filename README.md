@@ -16,7 +16,7 @@ com **Segurança da Informação**.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ### Onde me encontrar 📫
-- LinkedIn: [felipe-de-almeida] 💼 (https://linkedin.com/in/felipe-gomes-de-almeida)
+- LinkedIn: [felipe-gomes-de-almeida] 💼 (https://linkedin.com/in/felipe-gomes-de-almeida)
 - fpgomes2135@gmail.com ✉️
 - Rio de Janeiro, Brasil 📍
 ---
