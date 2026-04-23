@@ -17,7 +17,7 @@ com **Segurança da Informação**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ### Onde me encontrar 📫
 - LinkedIn: [felipe-de-almeida] 💼
- (https://linkedin.com/in/felipe-de-almeida)
+ (https://linkedin.com/in/felipe-gomes-de-almeida)
 - fpgomes2135@gmail.com ✉️
 - Rio de Janeiro, Brasil 📍
 ---
